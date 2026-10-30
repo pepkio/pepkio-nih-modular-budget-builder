@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio nih-modular-budget-builder tool."""
 
 from .client import PepkioClient

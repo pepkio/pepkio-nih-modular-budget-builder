@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Command-line interface for pepkio-nih-modular-budget-builder."""
 
 from __future__ import annotations
